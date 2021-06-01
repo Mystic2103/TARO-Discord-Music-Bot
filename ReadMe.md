@@ -47,6 +47,10 @@ After cloning, run:
 ```
 npm install
 ```
+To launch, run:
+```
+node .
+```
 
 ### Emojis & Bot Token
 - You can change the emojis and bot token in: <br>
