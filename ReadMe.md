@@ -11,8 +11,8 @@
 
 <div align=center>
 
- <a href="https://github.com/mongodb/mongo">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo">
+ <a href="https://www.sqlite.org/index.html">
+    <img src="https://cdn.discordapp.com/attachments/790834216769683486/849291752326299718/sqlite370_banner.gif" alt="SQLite">
   </a>
   
   <a href="https://github.com/discordjs">
