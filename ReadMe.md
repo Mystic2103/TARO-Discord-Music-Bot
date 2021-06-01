@@ -6,14 +6,10 @@
   <br>
 </h1>
 
-<h3 align=center>A simplified version of the music bot **Taro**</h3>
+<h3 align=center>A fully functional discord music bot</h3>
 
 
 <div align=center>
-
- <a href="https://www.sqlite.org/index.html">
-    <img src="https://cdn.discordapp.com/attachments/790834216769683486/849291752326299718/sqlite370_banner.gif" alt="SQLite">
-  </a>
   
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v12.5.3-blue.svg?logo=npm" alt="discordjs">
