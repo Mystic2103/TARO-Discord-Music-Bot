@@ -54,11 +54,11 @@ npm install
 
 ### Emojis & Bot Token
 - You can change the emojis and bot token in: <br>
-1- `config.json` <br>
+`config.json` <br>
 
 ## License
 
-Released under the [MIT License](https://github.com/Mystic2103/TARO-Discord-Music-Bot/blob/main/LICENSE) license.
+Released under the [MIT License](https://github.com/Mystic2103/TARO-Discord-Music-Bot/blob/main/LICENSE).
 
 ## Credits
 
